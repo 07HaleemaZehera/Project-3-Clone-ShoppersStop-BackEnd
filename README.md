@@ -38,7 +38,7 @@ This was our first backend project so creating data was not easy but any how we 
 
 
 
-# Some Snaps from our Clone-![aa](https://user-images.githubusercontent.com/91863686/158602906-b1af4f15-8deb-4b80-9e58-83f748ff624a.JPG)
-![zz](https://user-images.githubusercontent.com/91863686/158602962-6f13dbe7-d22a-4353-a94f-e1d15582f787.JPG)
+# Some Snaps from our Clone-![aa](https://github.com/07HaleemaZehera/Project-3-Clone-ShoppersStop-BackEnd/blob/main/backend.png)
+
 
 
